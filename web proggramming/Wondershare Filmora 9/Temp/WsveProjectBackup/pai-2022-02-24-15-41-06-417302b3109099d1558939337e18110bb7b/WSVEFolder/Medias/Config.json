@@ -1,0 +1,24 @@
+{
+    "embed_resource": {
+    },
+    "project_media_info": {
+        "order_list": {
+            "Folder": 0
+        },
+        "project_media_folder": {
+            "Folder": [
+                "{77cd1ad7-1995-4b73-b901-72cb161caa34}"
+            ]
+        }
+    },
+    "resources": {
+        "{77cd1ad7-1995-4b73-b901-72cb161caa34}": {
+            "download_url": "D:/Unduhan/VID20220224130259.mp4",
+            "id": "{77cd1ad7-1995-4b73-b901-72cb161caa34}",
+            "key_timeline_type": 3,
+            "name": "VID20220224130259",
+            "src_md5": "0a78f17b62985cd54aa18a0b861e86ac",
+            "srcource_md5": "0a78f17b62985cd54aa18a0b861e86ac"
+        }
+    }
+}

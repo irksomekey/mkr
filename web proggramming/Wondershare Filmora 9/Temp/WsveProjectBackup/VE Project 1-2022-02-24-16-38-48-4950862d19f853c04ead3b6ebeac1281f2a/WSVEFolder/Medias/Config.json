@@ -1,0 +1,42 @@
+{
+    "embed_resource": {
+    },
+    "project_media_info": {
+        "order_list": {
+            "Folder": 0
+        },
+        "project_media_folder": {
+            "Folder": [
+                "{809afa05-2822-403a-8dbb-f299187143e1}",
+                "{2570387a-46de-4beb-9a2f-196323e6d74e}",
+                "{b2589134-00d7-42ef-a65d-4ba0a8d8a419}"
+            ]
+        }
+    },
+    "resources": {
+        "{2570387a-46de-4beb-9a2f-196323e6d74e}": {
+            "download_url": "C:/Users/Khabibur Rokhman/Pictures/Saved Pictures/si.jpg",
+            "id": "{2570387a-46de-4beb-9a2f-196323e6d74e}",
+            "key_timeline_type": 4,
+            "name": "si",
+            "src_md5": "e3b72793c8531124dc69fa6596bede0b",
+            "srcource_md5": "e3b72793c8531124dc69fa6596bede0b"
+        },
+        "{809afa05-2822-403a-8dbb-f299187143e1}": {
+            "download_url": "D:/Unduhan/VID20220224130259.mp4",
+            "id": "{809afa05-2822-403a-8dbb-f299187143e1}",
+            "key_timeline_type": 3,
+            "name": "VID20220224130259",
+            "src_md5": "0a78f17b62985cd54aa18a0b861e86ac",
+            "srcource_md5": "0a78f17b62985cd54aa18a0b861e86ac"
+        },
+        "{b2589134-00d7-42ef-a65d-4ba0a8d8a419}": {
+            "download_url": "C:/Users/Khabibur Rokhman/Pictures/Saved Pictures/saat tawaf.jpg",
+            "id": "{b2589134-00d7-42ef-a65d-4ba0a8d8a419}",
+            "key_timeline_type": 4,
+            "name": "saat tawaf",
+            "src_md5": "5ec5e0362f8c5a1fc9ee9f59cb7e2df6",
+            "srcource_md5": "5ec5e0362f8c5a1fc9ee9f59cb7e2df6"
+        }
+    }
+}

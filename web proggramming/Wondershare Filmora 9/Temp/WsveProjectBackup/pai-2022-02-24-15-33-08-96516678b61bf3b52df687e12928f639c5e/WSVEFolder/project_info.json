@@ -1,0 +1,23 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2022-02-24 15:28:11.000",
+    "document_create_version": "9.5.0.20",
+    "document_default_animation": "",
+    "document_duration": 3406,
+    "document_framerate": 25,
+    "document_modify_date": "2022-02-24 15:33:08.000",
+    "document_name": "pai",
+    "document_new_version": "9.5.0.20",
+    "document_project_archive": false,
+    "document_project_guid": "e5560ae9-a8c8-4d05-b659-bb4a6ee6cef9",
+    "document_size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "document_type_name": "wfp",
+    "document_used_pack_name": [
+    ],
+    "doucment_play_quality": 1,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}
